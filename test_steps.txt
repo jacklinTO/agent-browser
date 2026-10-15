@@ -1,0 +1,4 @@
+Step 1: Navigate to setlist.fm
+Step 2: Click 'Statistics' link
+Step 3: Click the first artist, print the artist in the console
+Step 4: Print the first artist in the list with the most song performances
